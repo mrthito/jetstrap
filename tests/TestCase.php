@@ -1,10 +1,10 @@
 <?php
 
-namespace NascentAfrica\Jetstrap\Tests;
+namespace MrThito\Jetstrap\Tests;
 
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Foundation\Application;
-use NascentAfrica\Jetstrap\JetstrapServiceProvider;
+use MrThito\Jetstrap\JetstrapServiceProvider;
 
 class TestCase extends \Orchestra\Testbench\TestCase
 {

@@ -1,12 +1,12 @@
 <?php
 
-namespace NascentAfrica\Jetstrap\Console;
+namespace MrThito\Jetstrap\Console;
 
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;
-use NascentAfrica\Jetstrap\Helpers;
-use NascentAfrica\Jetstrap\JetstrapFacade;
-use NascentAfrica\Jetstrap\Presets;
+use MrThito\Jetstrap\Helpers;
+use MrThito\Jetstrap\JetstrapFacade;
+use MrThito\Jetstrap\Presets;
 
 class InstallCommand extends Command
 {
